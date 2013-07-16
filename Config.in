@@ -1,0 +1,6 @@
+config BR2_PACKAGE_PYTHON_ECDSA
+    bool "python-ecdsa"
+    help
+      An easy-to-use implementation of ECDSA cryptography (Elliptic Curve
+      Digital Signature Algorithm), implemented purely in Python, released
+      under the MIT license.
